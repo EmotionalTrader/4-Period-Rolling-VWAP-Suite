@@ -85,13 +85,21 @@ Over the last `n` days (5, 10, 15, 20, 50), and dynamically computes VWAP for ea
 
 ---
 
-## 📦 Installation from Code
+## 📦 Installation
 
+### Option 1 — Add Directly on TradingView (Easiest)
+You can add this indicator to your TradingView chart in seconds from the public library:  
+**[4-period Rolling VWAP Suite](https://www.tradingview.com/script/89sBe0V5-4-period-Rolling-VWAP-Suite/)**
+
+---
+
+### Option 2 — Install from Code
 1. Copy the code from [`4-Period-Rolling-VWAP-Suite.pine`](4%20period%20Rolling%20VWAP%20Suite.pine.txt)
 2. Open **TradingView**
 3. Go to **Pine Editor**
 4. Paste the code and click **Add to Chart**
 5. Save the script to your account
+
 
 ---
 
