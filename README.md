@@ -94,7 +94,7 @@ You can add this indicator to your TradingView chart in seconds from the public 
 ---
 
 ### Option 2 — Install from Code
-1. Copy the code from [`4-Period-Rolling-VWAP-Suite.pine`](4%20period%20Rolling%20VWAP%20Suite.pine.txt)
+1. Copy the code from [`4-Period-Rolling-VWAP-Suite.pine`]
 2. Open **TradingView**
 3. Go to **Pine Editor**
 4. Paste the code and click **Add to Chart**
