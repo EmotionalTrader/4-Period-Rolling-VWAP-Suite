@@ -1,6 +1,9 @@
 ## 4-Period-Rolling-VWAP-Suite
 A custom TradingView Pine Script indicator that calculates and plots multiple rolling VWAP (Volume Weighted Average Price) levels over different daily lookback periods. Designed to help traders identify key support/resistance zones and market bias— **especially effective during high or extreme volatility**.
 
+Note on Code Origin:
+The Pine Script code was initially generated with the help of large language models (LLMs) to speed up the development process. However, all trading algorithms, logic, and parameter settings are my own original work. Each indicator has been thoroughly tested and deployed on TradingView, where it’s actively used and has been boosted by 30+ traders within the first days of release.
+
 ---
 
 ## 📸 Screenshot
